@@ -1,0 +1,107 @@
+body {
+  background-color: moccasin;
+  margin: 0px;
+  font-family: "Palatino Linotype", Palatino, Cambria, "Liberation Serif",
+    "Times New Roman", Georgia, Serif;
+}
+
+nav {
+  background-color: sienna;
+  text-align: center;
+  padding: 11px;
+  margin: 0px;
+  font-family: Candara, "Nimbus Sans", sans-serif;
+}
+
+.nav-link {
+  color: seashell;
+  margin: 0px 10px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
+header {
+  background-image: url("../images/sect-header-background.jpg");
+  background-size: cover;
+  text-shadow: 3px 3px 5px black;
+  color: seashell;
+  height: 180px;
+  text-align: center;
+  padding: 25px;
+  font-weight: bolder;
+}
+
+.sect-services {
+  background-color: moccasin;
+  color: #654321;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  text-align: center;
+  text-shadow: 3px 3px 5px seashell;
+}
+
+.p-services {
+  font-size: 1.25rem;
+  line-height: 50%;
+}
+
+.sect-about {
+  background-color: saddlebrown;
+  color: seashell;
+  padding: 20px 100px 20px 100px;
+  font-size: 1.4rem;
+  font-weight: bolder;
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+}
+
+.img-about {
+  width: 300px;
+}
+
+.p-about {
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 133%;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.sect-testimonials {
+  background-color: moccasin;
+  color: #654321;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  text-align: center;
+  text-shadow: 3px 3px 5px seashell;
+}
+
+.p-testimonials {
+  font-size: 1.1rem;
+  font-style: italic;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.sect-contact {
+  background-color: saddlebrown;
+  color: seashell;
+  padding: 20px 100px 20px 100px;
+  font-size: 1.4rem;
+  font-weight: bolder;
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+}
+
+.sect-footer {
+  background-color: sienna;
+  text-align: center;
+  color: seashell;
+  padding-top: 1px;
+  padding-bottom: 20px;
+  margin: 0px;
+  font-family: Candara, "Nimbus Sans", sans-serif;
+}
